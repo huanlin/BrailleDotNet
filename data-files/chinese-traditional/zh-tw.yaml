@@ -1,0 +1,606 @@
+- Text: ㄅ
+  Dots:
+    - 135
+- Text: ㄆ
+  Dots:
+    - 1234
+- Text: ㄇ
+  Dots:
+    - 134
+- Text: ㄈ
+  Dots:
+    - 12345
+- Text: ㄉ
+  Dots:
+    - 145
+- Text: ㄊ
+  Dots:
+    - 124
+- Text: ㄋ
+  Dots:
+    - 1345
+- Text: ㄌ
+  Dots:
+    - 14
+- Text: ㄍ
+  Dots:
+    - 13
+- Text: ㄎ
+  Dots:
+    - 123
+- Text: ㄏ
+  Dots:
+    - 1235
+- Text: ㄐ
+  Dots:
+    - 13
+- Text: ㄑ
+  Dots:
+    - 245
+- Text: ㄒ
+  Dots:
+    - 15
+- Text: ㄓ
+  Dots:
+    - 1
+- Text: ㄔ
+  Dots:
+    - 12
+- Text: ㄕ
+  Dots:
+    - 24
+- Text: ㄖ
+  Dots:
+    - 1245
+- Text: ㄗ
+  Dots:
+    - 125
+- Text: ㄘ
+  Dots:
+    - 245
+- Text: ㄙ
+  Dots:
+    - 15
+- Text: ㄚ
+  Dots:
+    - 345
+- Text: ㄛ
+  Dots:
+    - 126
+- Text: ㄜ
+  Dots:
+    - 2346
+- Text: ㄝ
+  Dots:
+    - 26
+- Text: ㄞ
+  Dots:
+    - 2456
+- Text: ㄟ
+  Dots:
+    - 356
+- Text: ㄠ
+  Dots:
+    - 146
+- Text: ㄡ
+  Dots:
+    - 12356
+- Text: ㄢ
+  Dots:
+    - 1236
+- Text: ㄣ
+  Dots:
+    - 136
+- Text: ㄤ
+  Dots:
+    - 1346
+- Text: ㄥ
+  Dots:
+    - 1356
+- Text: ㄦ
+  Dots:
+    - 156
+- Text: ㄧ
+  Dots:
+    - 16
+- Text: ㄨ
+  Dots:
+    - 34
+- Text: ㄩ
+  Dots:
+    - 1256
+- Text: ㄧㄚ
+  Dots:
+    - 23456
+- Text: ㄧㄛ
+  Dots:
+    - 356
+- Text: ㄧㄝ
+  Dots:
+    - 346
+- Text: ㄧㄞ
+  Dots:
+    - 26
+- Text: ㄧㄠ
+  Dots:
+    - 246
+- Text: ㄧㄡ
+  Dots:
+    - 234
+- Text: ㄧㄢ
+  Dots:
+    - 2345
+- Text: ㄧㄣ
+  Dots:
+    - 1456
+- Text: ㄧㄤ
+  Dots:
+    - 46
+- Text: ㄧㄥ
+  Dots:
+    - 13456
+- Text: ㄨㄚ
+  Dots:
+    - 35
+- Text: ㄨㄛ
+  Dots:
+    - 25
+- Text: ㄨㄞ
+  Dots:
+    - 2356
+- Text: ㄨㄟ
+  Dots:
+    - 1246
+- Text: ㄨㄢ
+  Dots:
+    - 12456
+- Text: ㄨㄣ
+  Dots:
+    - 123456
+- Text: ㄨㄤ
+  Dots:
+    - 456
+- Text: ㄨㄥ
+  Dots:
+    - 12346
+- Text: ㄩㄝ
+  Dots:
+    - 236
+- Text: ㄩㄢ
+  Dots:
+    - 45
+- Text: ㄩㄣ
+  Dots:
+    - 256
+- Text: ㄩㄥ
+  Dots:
+    - 235
+- Text: ˉ
+  Dots:
+    - 3
+  Description: 一聲 (注意:它不是全形空白)
+- Text: ˊ
+  Dots:
+    - 2
+  Description: 二聲
+- Text: ˇ
+  Dots:
+    - 4
+  Description: 三聲
+- Text: ˋ
+  Dots:
+    - 5
+  Description: 四聲
+- Text: ˙
+  Dots:
+    - 1
+  Description: 輕聲
+- Text: 。
+  Dots:
+    - 36
+  Description: 句號
+- Text: ，
+  Dots:
+    - 23
+  Description: 逗號
+- Text: 、
+  Dots:
+    - 6
+  Description: 頓號
+- Text: ；
+  Dots:
+    - 56
+  Description: 分號
+- Text: ？
+  Dots:
+    - 135
+  Description: 問號
+- Text: ！
+  Dots:
+    - 123
+  Description: 驚嘆號
+- Text: ﹗
+  Dots:
+    - 123
+  Description: 另一種驚嘆號
+- Text: ：
+  Dots:
+    - 25
+    - 25
+  Description: 冒號
+- Text: ︰
+  Dots:
+    - 25
+    - 25
+  Description: 冒號（與上一個看似相同，但內碼不同）
+- Text: ～
+  Dots:
+    - 5
+    - 2
+  Description: 水波符號（跟半形水波符號的點位不同）
+- Text: －
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: －－
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: ─
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: ——
+  Dots:
+    - 5
+    - 2
+  Description: 破折號，0x2014
+- Text: ──
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: …
+  Dots:
+    - 5
+    - 5
+    - 5
+  Description: 刪節號
+- Text: ……
+  Dots:
+    - 5
+    - 5
+    - 5
+  Description: 刪節號
+- Text: ﹏﹏
+  Dots:
+    - 6
+    - 36
+  Description: 書名號
+- Text: ╴╴
+  Dots:
+    - 56
+    - 56
+  Description: 私名號
+- Text: ‧
+  Dots:
+    - 36
+  Description: 音界號
+- Text: ．
+  Dots:
+    - 36
+  Description: 音界號（視為音界號）
+- Text: ※
+  Dots:
+    - 4
+    - 3456
+  Description: 星標記號
+- Text: ◎
+  Dots:
+    - 246
+    - 135
+  Description: 精讀記號
+- Text: 「
+  Dots:
+    - 56
+    - 36
+  Description: 左單引號
+- Text: 」
+  Dots:
+    - 36
+    - 23
+  Description: 右單引號
+- Text: 『
+  Dots:
+    - 236
+    - 236
+  Description: 左雙引號
+- Text: 』
+  Dots:
+    - 356
+    - 356
+  Description: 右雙引號
+- Text: （
+  Dots:
+    - 246
+  Description: 左圓括號
+- Text: ）
+  Dots:
+    - 135
+  Description: 右圓括號
+- Text: 〔
+  Dots:
+    - 12346
+  Description: 左方括號
+- Text: 〕
+  Dots:
+    - 13456
+  Description: 右方括號
+- Text: 【
+  Dots:
+    - 12356
+  Description: 左方括號(粗)
+- Text: 】
+  Dots:
+    - 23456
+  Description: 右方括號(粗)
+- Text: ｛
+  Dots:
+    - 236
+  Description: 左大括號
+- Text: ｝
+  Dots:
+    - 356
+  Description: 右大括號
+- Text: 《
+  Dots:
+    - 126
+    - 126
+  Description: 左書名號
+- Text: 》
+  Dots:
+    - 345
+    - 345
+  Description: 右書名號
+- Text: 〈
+  Dots:
+    - 126
+  Description: 左篇名號
+- Text: 〉
+  Dots:
+    - 345
+  Description: 右篇名號
+- Text: ←
+  Dots:
+    - 246
+    - 25
+    - 25
+  Description: 箭頭向左
+- Text: →
+  Dots:
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向右
+- Text: ↑
+  Dots:
+    - 1246
+    - 126
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向上
+- Text: ↓
+  Dots:
+    - 1246
+    - 146
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向下
+- Text: ↖
+  Dots:
+    - 1246
+    - 45
+    - 246
+    - 25
+    - 25
+  Description: 箭頭左上
+- Text: ↗
+  Dots:
+    - 1246
+    - 45
+    - 25
+    - 135
+  Description: 箭頭右上
+- Text: ↙
+  Dots:
+    - 1246
+    - 56
+    - 246
+    - 25
+    - 25
+  Description: 箭頭左下
+- Text: ↘
+  Dots:
+    - 1246
+    - 56
+    - 25
+    - 25
+    - 135
+  Description: 箭頭右下
+- Text: ↔
+  Dots:
+    - 246
+    - 25
+    - 25
+    - 135
+  Description: 單槓雙向箭頭
+- Text: ∴
+  Dots:
+    - 6
+    - 16
+  Description: 所以
+- Text: ∵
+  Dots:
+    - 4
+    - 34
+  Description: 因為
+- Text: ＋
+  Dots:
+    - 346
+  Description: 加號
+- Text: ＝
+  Dots:
+    - 46
+    - 13
+  Description: 等於
+- Text: ≠
+  Dots:
+    - 34
+    - 46
+    - 13
+  Description: 不等於
+- Text: ＜
+  Dots:
+    - 5
+    - 13
+  Description: 小於
+- Text: ＞
+  Dots:
+    - 46
+    - 2
+  Description: 大於
+- Text: ≦
+  Dots:
+    - 5
+    - 13
+    - 156
+  Description: 小於等於
+- Text: ≧
+  Dots:
+    - 46
+    - 2
+    - 156
+  Description: 大於等於
+- Text: ±
+  Dots:
+    - 346
+    - 36
+  Description: 正負符號
+- Text: ∠
+  Dots:
+    - 1246
+    - 246
+  Description: 角度符號
+- Text: ⊥
+  Dots:
+    - 1246
+    - 1234
+  Description: 垂直符號
+- Text: ≒
+  Dots:
+    - 5
+    - 46
+    - 13
+    - 146
+    - 16
+    - 126
+    - 16
+    - 12456
+  Description: 近似符號
+- Text: '　'
+  Dots:
+    - ''
+  Description: 全形空白
+- Text: ○
+  Dots:
+    - 135
+  Description: 打圈 (原本是 2A15)
+- Text: ╳
+  Dots:
+    - 1346
+  Description: 打叉 (原本是 152A)
+- Text: √
+  Dots:
+    - 26
+    - 345
+  Description: '打勾（注意: 為了避免跟注音符號的第三聲一樣，故改用根號符號）'
+- Text: ＄
+  Dots:
+    - 256
+  Description: 錢字符號
+- Text: ∘
+  Dots:
+    - 45
+    - 46
+    - 16
+  Description: 溫度符號
+- Text: ℃
+  Dots:
+    - 45
+    - 46
+    - 16
+    - 5
+    - 6
+    - 14
+  Description: 溫度符號
+- Text: ﹋
+  Dots:
+    - 26
+    - 35
+  Description: 小題結束
+- Text: ﹍
+  Dots:
+    - 25
+    - 36
+  Description: 小單元結束
+- Text: ˍ
+  Dots:
+    - 25
+    - 25
+  Description: 大單元結束
+- Text: ★
+  Dots:
+    - 6
+    - 3
+  Description: 點譯者註
+- Text: （★
+  Dots:
+    - 246
+    - 6
+    - 3
+  Description: 點譯者註，有外加括弧的寫法。
+- Text: □
+  Dots:
+    - 123456
+  Description: 滿點，可用於輔助幼兒辨識點字。
+- Text: ▲
+  Dots:
+    - 246
+  Description: 刪除起始
+- Text: ▼
+  Dots:
+    - 12456
+  Description: 刪除結束
+- Text: ﹒
+  Dots:
+    - 5
+  Description: 目錄虛線的點
+- Text: △
+  Dots:
+    - 1246
+    - 2345
+- Text: '[↗]'
+  Dots:
+    - 6
+    - 25
+  Description: 上升語調
+- Text: '[↘]'
+  Dots:
+    - 25
+    - 3
+  Description: 下降語調

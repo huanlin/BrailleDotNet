@@ -1,0 +1,269 @@
+#-------------------
+Alphabetic:
+  - Text: a
+    Dots:
+      - 1
+  - Text: b
+    Dots:
+      - 12
+  - Text: c
+    Dots:
+      - 14
+  - Text: d
+    Dots:
+      - 145
+  - Text: e
+    Dots:
+      - 15
+  - Text: f
+    Dots:
+      - 124
+  - Text: g
+    Dots:
+      - 1245
+  - Text: h
+    Dots:
+      - 125
+  - Text: i
+    Dots:
+      - 24
+  - Text: j
+    Dots:
+      - 245
+  - Text: k
+    Dots:
+      - 13
+  - Text: l
+    Dots:
+      - 123
+  - Text: m
+    Dots:
+      - 134
+  - Text: 'n'
+    Dots:
+      - 1345
+  - Text: o
+    Dots:
+      - 135
+  - Text: p
+    Dots:
+      - 1234
+  - Text: q
+    Dots:
+      - 12345
+  - Text: r
+    Dots:
+      - 1235
+  - Text: s
+    Dots:
+      - 234
+  - Text: t
+    Dots:
+      - 2345
+  - Text: u
+    Dots:
+      - 136
+  - Text: v
+    Dots:
+      - 1236
+  - Text: w
+    Dots:
+      - 2456
+  - Text: x
+    Dots:
+      - 1346
+  - Text: 'y'
+    Dots:
+      - 13456
+  - Text: z
+    Dots:
+      - 1356
+#-------------------
+Numeric:
+  - Text: 1
+    Dots:
+      - 1
+  - Text: 2
+    Dots:
+      - 12
+  - Text: 3
+    Dots:
+      - 14
+  - Text: 4
+    Dots:
+      - 145
+  - Text: 5
+    Dots:
+      - 15
+  - Text: 6
+    Dots:
+      - 124
+  - Text: 7
+    Dots:
+      - 1245
+  - Text: 8
+    Dots:
+      - 125
+  - Text: 9
+    Dots:
+      - 24
+  - Text: 0
+    Dots:
+      - 245
+#-------------------
+Punctuation:
+  - Text: ','
+    Dots:
+      - 2
+    Description: 逗號
+  - Text: .
+    Dots:
+      - 256
+    Description: 句號
+  - Text: ''''
+    Dots:
+      - 3
+    Description: 所有格符號
+  - Text: '-'
+    Dots:
+      - 36
+    Description: 連結號，若連續兩個則為破折號
+  - Text: _
+    Dots:
+      - 36
+    Description: 底線
+  - Text: '*'
+    Dots:
+      - 236
+      - 236
+    Description: 星號
+  - Text: /
+    Dots:
+      - 34
+    Description: 斜線
+  - Text: ;
+    Dots:
+      - 23
+    Description: 分號
+  - Text: ...
+    Dots:
+      - 3
+      - 3
+      - 3
+    Description: 刪節號
+  - Text: ':'
+    Dots:
+      - 25
+    Description: 冒號
+  - Text: '?'
+    Dots:
+      - 236
+    Description: 問號
+  - Text: '!'
+    Dots:
+      - 235
+    Description: 驚嘆號
+  - Text: (
+    Dots:
+      - 2356
+    Description: 左括號
+  - Text: )
+    Dots:
+      - 2356
+    Description: 右括號
+  - Text: '['
+    Dots:
+      - 6
+      - 2356
+    Description: 左方括號
+  - Text: ']'
+    Dots:
+      - 2356
+      - 3
+    Description: 右方括號
+  - Text: ‘
+    Dots:
+      - 6
+      - 236
+    Description: 左單引號
+  - Text: ’
+    Dots:
+      - 356
+      - 3
+    Description: 右單引號
+  - Text: “
+    Dots:
+      - 236
+    Description: 左雙引號
+  - Text: ”
+    Dots:
+      - 356
+    Description: 右雙引號
+#-------------------
+Misc:
+  - Text: +
+    Dots:
+      - 346
+    Description: 加號
+  - Text: =
+    Dots:
+      - 46
+      - 13
+    Description: 等於
+  - Text: '%'
+    Dots:
+      - 4
+      - 356
+    Description: 百分比
+  - Text: ×
+    Dots:
+      - 4
+      - 16
+    Description: 乘號
+  - Text: ÷
+    Dots:
+      - 46
+      - 34
+    Description: 除號
+  - Text: '>'
+    Dots:
+      - 46
+      - 2
+    Description: 大於
+  - Text: <
+    Dots:
+      - 5
+      - 13
+    Description: 小於
+  - Text: $
+    Dots:
+      - 256
+  - Text: '@'
+    Dots:
+      - 4
+  - Text: '&'
+    Dots:
+      - 12346
+  - Text: '~'
+    Dots:
+      - 36
+      - 36
+#-------------------      
+Indicators:
+  - Text: ''
+    Dots:
+      - 3456
+    Description: 數字
+  - Text: ''
+    Dots:
+      - 6
+    Description: 下一個字母為大寫
+  - Text: ''
+    Dots:
+      - 6
+      - 6
+    Description: 連續大寫字母開始或結束
+  - Text: ''
+    Dots:
+      - 46
+    Description: 斜體字
