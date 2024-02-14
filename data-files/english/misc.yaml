@@ -1,0 +1,151 @@
+Misc:
+  - Text: '→'
+    Dots:
+      - 1256
+      - 135
+    Description: "Simple right pointing arrow (east)."  
+  - Text: '↓'
+    Dots:
+      - 1256
+      - 146
+    Description: "Simple down pointing arrow (south) ."  
+  - Text: '←'
+    Dots:
+      - 1256
+      - 246
+    Description: "Simple left pointing arrow (west)."  
+  - Text: '↑'
+    Dots:
+      - 1256
+      - 346
+    Description: "Simple up pointing arrow (north)."  
+  - Text: '@'
+    Dots:
+      - 4
+      - 1
+    Description: "Commercial 'at' sign."  
+  - Text: '¢'
+    Dots:
+      - 4
+      - 14
+    Description: "Cent sign."
+  - Text: '€'
+    Dots:
+      - 4
+      - 15
+    Description: "Euro sign."
+  - Text: '₣'
+    Dots:
+      - 4
+      - 124
+    Description: "French franc sign."
+  - Text: '£'
+    Dots:
+      - 4
+      - 123
+    Description: "Pound sign."
+  - Text: '₦'
+    Dots:
+      - 4
+      - 1345
+    Description: "Naira sign."
+  - Text: $
+    Dots:
+      - 4
+      - 234
+    Description: "Dollar sign."
+  - Text: ¥
+    Dots:
+      - 4
+      - 13456
+    Description: "Yen (Yuan) sign." 
+  - Text: '&'
+    Dots:
+      - 4
+      - 12346
+    Description: "Ampersand."    
+  - Text: '^'
+    Dots:
+      - 4
+      - 26
+    Description: "Caret."
+  - Text: '~'
+    Dots:
+      - 4
+      - 35
+    Description: "Tilde (swung dash)."
+  - Text: '©'
+    Dots:
+      - 45
+      - 14
+    Description: "Copyright sign."
+  - Text: '°'
+    Dots:
+      - 45
+      - 245
+    Description: "Degree sign."
+  - Text: '¶'
+    Dots:
+      - 45
+      - 1234
+    Description: "Paragraph sign."
+  - Text: '®'
+    Dots:
+      - 45
+      - 1235
+    Description: "Registered sign."
+  - Text: '§'
+    Dots:
+      - 45
+      - 234
+    Description: "Section sign."
+  - Text: '™'
+    Dots:
+      - 45
+      - 2345
+    Description: "Trademark sign."
+  - Text: '♀'
+    Dots:
+      - 45
+      - 1346
+    Description: "Female sign."
+  - Text: '♂'
+    Dots:
+      - 45
+      - 13456
+    Description: "Male sign."
+  - Text: '#'
+    Dots:
+      - 456
+      - 1456
+    Description: "Number sign."  
+  - Text: '•'
+    Dots:
+      - 456
+      - 256
+    Description: "Bullet."
+  - Text: '〃'
+    Dots:
+      - 5
+      - 2
+    Description: "Ditto mark."
+  - Text: '*'
+    Dots:
+      - 5
+      - 35
+    Description: "Asterisk (star)."
+  - Text: '♮'
+    Dots:
+      - 3456
+      - 16
+    Description: "Natural. (還原記號)"  
+  - Text: '♭'
+    Dots:
+      - 3456
+      - 126
+    Description: "Flat. (降記號)"
+  - Text: '♯'
+    Dots:
+      - 3456
+      - 146
+    Description: "Sharp. (升記號)"

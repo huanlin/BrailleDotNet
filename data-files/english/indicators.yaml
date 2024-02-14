@@ -16,3 +16,23 @@ Indicators:
     Dots:
       - 46
     Description: 斜體字
+  - Text: ''
+    Dots:
+      - 26
+    Description: "Subscript indicator. (下標)"
+  - Text: ''
+    Dots:
+      - 35
+    Description: "Superscript indicator. (上標)"
+  - Text: ''
+    Dots:
+      - 4
+      - 46
+      - 126
+    Description: "Opening transcriber’s note indicator. (轉譯者註-開始)"
+  - Text: ''
+    Dots:
+      - 4
+      - 46
+      - 345
+    Description: "Closing transcriber’s note indicator. (轉譯者註-結束)"

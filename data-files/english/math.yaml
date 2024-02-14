@@ -1,0 +1,50 @@
+Math:
+  - Text: "+"
+    Dots:
+      - 5
+      - 235
+    Description: "Plus sign. (加號)"
+  - Text: "="
+    Dots:
+      - 5
+      - 2356
+    Description: "Equal sign. (等於)"
+  - Text: "×"
+    Dots:
+      - 5
+      - 236
+    Description: "Multiplication sign. (乘號)"
+  - Text: "÷"
+    Dots:
+      - 5
+      - 34
+    Description: "Division sign. (除號)"
+  - Text: "-"
+    Dots:
+      - 5
+      - 36
+    Description: "Minus sign. (減號)"    
+  - Text: "%"
+    Dots:
+      - 46
+      - 356
+    Description: "Percentage sign. (百分比)"
+  - Text: <
+    Dots:
+      - 4
+      - 126
+    Description: "Less than sign. (小於)"
+  - Text: '>'
+    Dots:
+      - 4
+      - 345
+    Description: "Greater-than sign. (大於)"
+  - Text: '∶'
+    Dots:
+      - 25
+    Description: "Ratio. (比例)"
+  - Text: '∷'
+    Dots:
+      - 25
+      - 25
+    Description: "Proportion. (比重)"

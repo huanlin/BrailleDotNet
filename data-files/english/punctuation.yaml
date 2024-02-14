@@ -1,0 +1,169 @@
+Punctuation:
+  - Text: ','
+    Dots:
+      - 2
+    Description: Comma
+  - Text: ;
+    Dots:
+      - 23
+    Description: Semicolon
+  - Text: ':'
+    Dots:
+      - 25
+    Description: Colon
+  - Text: .
+    Dots:
+      - 256
+    Description: "Period, dot, decimal point."
+  - Text: ...
+    Dots:
+      - 256
+      - 256
+      - 256
+    Description: "Ellipsis (刪節號)"
+  - Text: ''''
+    Dots:
+      - 3
+    Description: 所有格符號
+  - Text: '-'
+    Dots:
+      - 36
+    Description: "hyphen (連結號，若連續兩個則為破折號)"
+  - Text: '!'
+    Dots:
+      - 235
+    Description: "Exclamation mark (驚嘆號)"
+  - Text: '?'
+    Dots:
+      - 236
+    Description: "Question mark"
+  - Text: ‘
+    Dots:
+      - 6
+      - 236
+    Description: "Opening single quotation mark (左單引號)"
+  - Text: ’
+    Dots:
+      - 356
+      - 3
+    Description: "Closing single quotation mark (右單引號)"
+  - Text: “
+    Dots:
+      - 45
+      - 236
+    Description: "Opening double quotation mark (左雙引號)"
+  - Text: ”
+    Dots:
+      - 45
+      - 356
+    Description: "Closing double quotation mark (右雙引號)"
+# The following nonspecific quotation marks are not supported because I don't know which characher to use.    
+#
+#  - Text: “
+#    Dots:
+#      - 236
+#    Description: "Opening one-cell (nonspecific) quotation mark"
+#  - Text: ”
+#    Dots:
+#      - 356
+#    Description: "Closing one-cell (nonspecific) quotation mark"
+  - Text: «
+    Dots:
+      - 456
+      - 236
+    Description: "Opening Italian quotation mark (guillemet)"
+  - Text: »
+    Dots:
+      - 456
+      - 356
+    Description: "Closing Italian quotation mark (guillemet)"
+  - Text: '"'
+    Dots:
+      - 6
+      - 2356
+    Description: "Nondirectional double quotation mark."
+  - Text: "'"
+    Dots:
+      - 3
+    Description: "Apostrophe, nondirectional single quotation mark."
+  - Text: (
+    Dots:
+      - 5
+      - 126
+    Description: "Opening parenthesis (round bracket)."
+  - Text: )
+    Dots:
+      - 5
+      - 345
+    Description: "Closing parenthesis (round bracket)."
+  - Text: '['
+    Dots:
+      - 46
+      - 126
+    Description: "Opening square bracket (左方括號)"
+  - Text: ']'
+    Dots:
+      - 46
+      - 345
+    Description: "Closing square bracket (右方括號)"
+  - Text: "<"
+    Dots:
+      - 4
+      - 126
+    Description: "Opening angle bracket."
+  - Text: ">"
+    Dots:
+      - 4
+      - 345
+    Description: "Closing angle bracket."
+  - Text: "{"
+    Dots:
+      - 456
+      - 126
+    Description: "Opening curly bracket (brace bracket)."
+  - Text: "}"
+    Dots:
+      - 456
+      - 345
+    Description: "Closing curly bracket (brace bracket)."
+  - Text: "/"
+    Dots:
+      - 456
+      - 34
+    Description: "Solidus (forward slash)."
+  - Text: "\\"
+    Dots:
+      - 456
+      - 16
+    Description: "Reverse solidus (backslash)."
+  - Text: "-"
+    Dots:
+      - 36
+    Description: "Hyphen."
+  - Text: "\u2010"
+    Dots:
+      - 36
+    Description: "Hyphen."
+  - Text: "–"
+    Dots:
+      - 6
+      - 36
+    Description: "Dash (when distinguishing from hyphen in print)."
+  - Text: "\u2013"
+    Dots:
+      - 6
+      - 36
+    Description: "En dash."
+  - Text: "⸺"
+    Dots:
+      - 5
+      - 6
+      - 36
+    Description: "Long dash (two-em dash: U+2E3A)."
+  - Text: "_"
+    Dots:
+      - 46
+      - 36
+    Description: "Underscore."
+
+# Note: Multu-line parenthesises are not supported (we might not need them?).
