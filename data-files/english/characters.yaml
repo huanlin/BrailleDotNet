@@ -248,22 +248,4 @@ Misc:
     Dots:
       - 36
       - 36
-#-------------------      
-Indicators:
-  - Text: ''
-    Dots:
-      - 3456
-    Description: 數字
-  - Text: ''
-    Dots:
-      - 6
-    Description: 下一個字母為大寫
-  - Text: ''
-    Dots:
-      - 6
-      - 6
-    Description: 連續大寫字母開始或結束
-  - Text: ''
-    Dots:
-      - 46
-    Description: 斜體字
+

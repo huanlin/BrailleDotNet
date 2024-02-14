@@ -1,0 +1,179 @@
+Punctuation:
+- Text: 。
+  Dots:
+    - 36
+  Description: 句號
+- Text: ，
+  Dots:
+    - 23
+  Description: 逗號
+- Text: 、
+  Dots:
+    - 6
+  Description: 頓號
+- Text: ；
+  Dots:
+    - 56
+  Description: 分號
+- Text: ？
+  Dots:
+    - 135
+  Description: 問號
+- Text: ！
+  Dots:
+    - 123
+  Description: 驚嘆號
+- Text: ﹗
+  Dots:
+    - 123
+  Description: 另一種驚嘆號
+- Text: ：
+  Dots:
+    - 25
+    - 25
+  Description: 冒號
+- Text: ︰
+  Dots:
+    - 25
+    - 25
+  Description: 冒號（與上一個看似相同，但內碼不同）
+- Text: ～
+  Dots:
+    - 5
+    - 2
+  Description: 水波符號（跟半形水波符號的點位不同）
+- Text: －
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: －－
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: ─
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: ——
+  Dots:
+    - 5
+    - 2
+  Description: 破折號，0x2014
+- Text: ──
+  Dots:
+    - 5
+    - 2
+  Description: 破折號
+- Text: …
+  Dots:
+    - 5
+    - 5
+    - 5
+  Description: 刪節號
+- Text: ……
+  Dots:
+    - 5
+    - 5
+    - 5
+  Description: 刪節號
+- Text: ﹏﹏
+  Dots:
+    - 6
+    - 36
+  Description: 書名號
+- Text: ╴╴
+  Dots:
+    - 56
+    - 56
+  Description: 私名號
+- Text: ‧
+  Dots:
+    - 36
+  Description: 音界號
+- Text: ．
+  Dots:
+    - 36
+  Description: 音界號（視為音界號）
+- Text: ※
+  Dots:
+    - 4
+    - 3456
+  Description: 星標記號
+- Text: ◎
+  Dots:
+    - 246
+    - 135
+  Description: 精讀記號
+- Text: 「
+  Dots:
+    - 56
+    - 36
+  Description: 左單引號
+- Text: 」
+  Dots:
+    - 36
+    - 23
+  Description: 右單引號
+- Text: 『
+  Dots:
+    - 236
+    - 236
+  Description: 左雙引號
+- Text: 』
+  Dots:
+    - 356
+    - 356
+  Description: 右雙引號
+- Text: （
+  Dots:
+    - 246
+  Description: 左圓括號
+- Text: ）
+  Dots:
+    - 135
+  Description: 右圓括號
+- Text: 〔
+  Dots:
+    - 12346
+  Description: 左方括號
+- Text: 〕
+  Dots:
+    - 13456
+  Description: 右方括號
+- Text: 【
+  Dots:
+    - 12356
+  Description: 左方括號(粗)
+- Text: 】
+  Dots:
+    - 23456
+  Description: 右方括號(粗)
+- Text: ｛
+  Dots:
+    - 236
+  Description: 左大括號
+- Text: ｝
+  Dots:
+    - 356
+  Description: 右大括號
+- Text: 《
+  Dots:
+    - 126
+    - 126
+  Description: 左書名號
+- Text: 》
+  Dots:
+    - 345
+    - 345
+  Description: 右書名號
+- Text: 〈
+  Dots:
+    - 126
+  Description: 左篇名號
+- Text: 〉
+  Dots:
+    - 345
+  Description: 右篇名號

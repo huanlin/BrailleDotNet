@@ -1,0 +1,232 @@
+Misc:
+- Text: '　'
+  Dots:
+    - ''
+  Description: 全形空白
+- Text: ←
+  Dots:
+    - 246
+    - 25
+    - 25
+  Description: 箭頭向左
+- Text: →
+  Dots:
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向右
+- Text: ↑
+  Dots:
+    - 1246
+    - 126
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向上
+- Text: ↓
+  Dots:
+    - 1246
+    - 146
+    - 25
+    - 25
+    - 135
+  Description: 箭頭向下
+- Text: ↖
+  Dots:
+    - 1246
+    - 45
+    - 246
+    - 25
+    - 25
+  Description: 箭頭左上
+- Text: ↗
+  Dots:
+    - 1246
+    - 45
+    - 25
+    - 135
+  Description: 箭頭右上
+- Text: ↙
+  Dots:
+    - 1246
+    - 56
+    - 246
+    - 25
+    - 25
+  Description: 箭頭左下
+- Text: ↘
+  Dots:
+    - 1246
+    - 56
+    - 25
+    - 25
+    - 135
+  Description: 箭頭右下
+- Text: ↔
+  Dots:
+    - 246
+    - 25
+    - 25
+    - 135
+  Description: 單槓雙向箭頭
+- Text: ∴
+  Dots:
+    - 6
+    - 16
+  Description: 所以
+- Text: ∵
+  Dots:
+    - 4
+    - 34
+  Description: 因為
+- Text: ＋
+  Dots:
+    - 346
+  Description: 加號
+- Text: ＝
+  Dots:
+    - 46
+    - 13
+  Description: 等於
+- Text: ≠
+  Dots:
+    - 34
+    - 46
+    - 13
+  Description: 不等於
+- Text: ＜
+  Dots:
+    - 5
+    - 13
+  Description: 小於
+- Text: ＞
+  Dots:
+    - 46
+    - 2
+  Description: 大於
+- Text: ≦
+  Dots:
+    - 5
+    - 13
+    - 156
+  Description: 小於等於
+- Text: ≧
+  Dots:
+    - 46
+    - 2
+    - 156
+  Description: 大於等於
+- Text: ±
+  Dots:
+    - 346
+    - 36
+  Description: 正負符號
+- Text: ∠
+  Dots:
+    - 1246
+    - 246
+  Description: 角度符號
+- Text: ⊥
+  Dots:
+    - 1246
+    - 1234
+  Description: 垂直符號
+- Text: ≒
+  Dots:
+    - 5
+    - 46
+    - 13
+    - 146
+    - 16
+    - 126
+    - 16
+    - 12456
+  Description: 近似符號
+- Text: ○
+  Dots:
+    - 135
+  Description: 打圈 (原本是 2A15)
+- Text: ╳
+  Dots:
+    - 1346
+  Description: 打叉 (原本是 152A)
+- Text: √
+  Dots:
+    - 26
+    - 345
+  Description: '打勾（注意: 為了避免跟注音符號的第三聲一樣，故改用根號符號）'
+- Text: ＄
+  Dots:
+    - 256
+  Description: 錢字符號
+- Text: ∘
+  Dots:
+    - 45
+    - 46
+    - 16
+  Description: 溫度符號
+- Text: ℃
+  Dots:
+    - 45
+    - 46
+    - 16
+    - 5
+    - 6
+    - 14
+  Description: 溫度符號
+- Text: ﹋
+  Dots:
+    - 26
+    - 35
+  Description: 小題結束
+- Text: ﹍
+  Dots:
+    - 25
+    - 36
+  Description: 小單元結束
+- Text: ˍ
+  Dots:
+    - 25
+    - 25
+  Description: 大單元結束
+- Text: ★
+  Dots:
+    - 6
+    - 3
+  Description: 點譯者註
+- Text: （★
+  Dots:
+    - 246
+    - 6
+    - 3
+  Description: 點譯者註，有外加括弧的寫法。
+- Text: □
+  Dots:
+    - 123456
+  Description: 滿點，可用於輔助幼兒辨識點字。
+- Text: ▲
+  Dots:
+    - 246
+  Description: 刪除起始
+- Text: ▼
+  Dots:
+    - 12456
+  Description: 刪除結束
+- Text: ﹒
+  Dots:
+    - 5
+  Description: 目錄虛線的點
+- Text: △
+  Dots:
+    - 1246
+    - 2345
+- Text: '[↗]'
+  Dots:
+    - 6
+    - 25
+  Description: 上升語調
+- Text: '[↘]'
+  Dots:
+    - 25
+    - 3
+  Description: 下降語調
