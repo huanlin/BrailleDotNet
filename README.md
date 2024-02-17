@@ -32,3 +32,4 @@ If you would like to support this open-source project, kindly buy me a coffee vi
 ## Reference
 
 - [Rules of Unified English Braille 2nd edition 2013](https://iceb.org/Rules%20of%20Unified%20English%20Braille%202013.pdf)
+- GitHub project: [unified-english-braille](https://github.com/DeafblindEngineer/unified-english-braille)
