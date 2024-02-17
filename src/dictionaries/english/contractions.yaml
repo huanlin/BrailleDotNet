@@ -1,388 +1,388 @@
 # Reference: Rules of Unified English Braille 2013.
 Contractions:
-# Alphabetic wordsigns
+# Alphabetic wordsigns. 
   - Text: but
-    Dots: 
+    Dots: 12
   - Text: can
-    Dots:
+    Dots: 14
   - Text: do
-    Dots:
+    Dots: 145
   - Text: every
-    Dots:
+    Dots: 15
   - Text: from 
-    Dots: 124 135
+    Dots: 124
     ShortText: f
   - Text: go 
-    Dots:   
+    Dots: 1245  
   - Text: have 
-    Dots:
+    Dots: 125
   - Text: just 
-    Dots:
+    Dots: 245
   - Text: knowledge 
-    Dots:
+    Dots: 13
   - Text: like 
-    Dots:
+    Dots: 123
   - Text: more 
-    Dots:
+    Dots: 134
   - Text: not 
-    Dots:
+    Dots: 1345
   - Text: people 
-    Dots:
+    Dots: 1234
   - Text: quite 
-    Dots: 
+    Dots: 12345
   - Text: rather 
-    Dots:
+    Dots: 1235
   - Text: so 
-    Dots:
+    Dots: 234
   - Text: that 
-    Dots:
+    Dots: 2345
   - Text: us 
-    Dots:
+    Dots: 136
   - Text: very 
-    Dots:
+    Dots: 1236
   - Text: will 
-    Dots:
+    Dots: 2456
   - Text: it 
-    Dots:
+    Dots: 1346
   - Text: you 
-    Dots:
+    Dots: 13456
   - Text: as 
-    Dots:
+    Dots: 1356
 
 # Strong wordsigns
   - Text: child 
-    Dots:
+    Dots: 16
   - Text: shall
-    Dots:
+    Dots: 146
   - Text: this
-    Dots:
+    Dots: 1456
   - Text: which
-    Dots:
+    Dots: 156
   - Text: out
-    Dots:
+    Dots: 1256
   - Text: still
-    Dots:
+    Dots: 34
 
 # Strong contractions: may be used as groupsigns and as wordsigns.
   - Text: and
-    Dots:
+    Dots: 12346
   - Text: for
-    Dots:
+    Dots: 123456
   - Text: of
-    Dots:
+    Dots: 12356
   - Text: the
-    Dots:
+    Dots: 2346
   - Text: with
-    Dots:
+    Dots: 23456
 
 # Strong groupsigns
   - Text: ch
-    Dots:
+    Dots: 16
   - Text: gh
-    Dots:
+    Dots: 126
   - Text: sh
-    Dots:
+    Dots: 146
   - Text: th
-    Dots:
+    Dots: 1456
   - Text: wh
-    Dots:
+    Dots: 156
   - Text: ed
-    Dots:
+    Dots: 1246
   - Text: er
-    Dots:
+    Dots: 12456
   - Text: ou
-    Dots:
+    Dots: 1256
   - Text: ow
-    Dots:
+    Dots: 246
   - Text: st
-    Dots:
+    Dots: 34
   - Text: ing
-    Dots:
+    Dots: 346
   - Text: ar
-    Dots:
+    Dots: 345
 
 # Lower wordsigns
   - Text: be
-    Dots:
+    Dots: 23
   - Text: enough
-    Dots:
+    Dots: 26
   - Text: were
-    Dots:
+    Dots: 2356
   - Text: his
-    Dots:
+    Dots: 236
   - Text: in
-    Dots:
+    Dots: 35
   - Text: was
-    Dots:
+    Dots: 356
          
 # Lower groupsigns
   - Text: ea
-    Dots:
+    Dots: 2
   - Text: be
-    Dots:
+    Dots: 23
   - Text: bb
-    Dots:
+    Dots: 23
   - Text: con
-    Dots:
+    Dots: 25
   - Text: cc
-    Dots:
+    Dots: 25
   - Text: dis
-    Dots:
+    Dots: 256
   - Text: en
-    Dots:
+    Dots: 26
   - Text: ff
-    Dots:
+    Dots: 235
   - Text: gg
-    Dots:
+    Dots: 2356
   - Text: in
-    Dots:
+    Dots: 35
 
 # Initial-letter contractions: may be used as groupsigns and as wordsigns.
   # (1) beginning with dots 45 
   - Text: upon
-    Dots:
+    Dots: 45 136
   - Text: these
-    Dots:
+    Dots: 45 2346
   - Text: those
-    Dots:
+    Dots: 45 1456
   - Text: whose
-    Dots:
+    Dots: 45 156
   - Text: word
-    Dots:
+    Dots:45 2456
   # (2) beginning with dots 456 
   - Text: cannot
-    Dots:
+    Dots: 456 14
   - Text: had
-    Dots: 
+    Dots: 456 125
   - Text: many
-    Dots:
+    Dots: 456 134
   - Text: spirit
-    Dots:
+    Dots: 456 234
   - Text: their
-    Dots:
+    Dots: 456 2346
   - Text: world
-    Dots:
+    Dots: 456 2456
   # (3) beginning with dot 5
   - Text: day
-    Dots:
+    Dots: 5 145
   - Text: ever
-    Dots:
+    Dots: 5 15
   - Text: father
-    Dots:
+    Dots: 5 124
   - Text: here
-    Dots:
+    Dots: 5 125
   - Text: know
-    Dots:
+    Dots: 5 13
   - Text: lord
-    Dots:
+    Dots: 5 123
   - Text: mother
-    Dots:  
+    Dots: 5 134
   - Text: name
-    Dots:
+    Dots: 5 1345
   - Text: one
-    Dots:
+    Dots: 5 135
   - Text: part
-    Dots:
+    Dots: 5 1234
   - Text: question
-    Dots:
+    Dots: 5 12345
   - Text: right
-    Dots:
+    Dots: 5 1235
   - Text: some
-    Dots:
+    Dots: 5 234
   - Text: time
-    Dots:
+    Dots: 5 2345
   - Text: under
-    Dots:
+    Dots: 5 136
   - Text: young
-    Dots:
+    Dots: 5 13456
   - Text: there
-    Dots:
+    Dots: 5 2346
   - Text: character
-    Dots:
+    Dots: 5 16
   - Text: through
-    Dots:
+    Dots: 5 1456
   - Text: where
-    Dots:
+    Dots: 5 156
   - Text: ought
-    Dots:
+    Dots: 5 1256
   - Text: work
-    Dots:
+    Dots: 5 2456
 # Final-letter groupsigns
   # (1) beginning with dots 46
   - Text: ound
-    Dots:
+    Dots: 46 145
   - Text: ance
-    Dots:
+    Dots: 46 15
   - Text: sion
-    Dots:
+    Dots: 46 1345
   - Text: less
-    Dots:
+    Dots: 46 234
   - Text: ount
-    Dots:
+    Dots: 46 2345
   # (2) beginning with dots 56   
   - Text: ence
-    Dots:
+    Dots: 56 15
   - Text: ong
-    Dots:
+    Dots: 56 1245
   - Text: ful
-    Dots:
+    Dots: 56 123
   - Text: tion
-    Dots:
+    Dots: 56 1345
   - Text: ness
-    Dots:
+    Dots: 56 234
   - Text: ment
-    Dots:
+    Dots: 56 2345
   - Text: ity
-    Dots:
+    Dots: 56 13456
 
 # Shortforms    
   - Text: about
-    Dots:
+    Dots: 1 12
   - Text: above
-    Dots:
+    Dots: 1 12 1236
   - Text: according
-    Dots:
+    Dots: 1 14
   - Text: across
-    Dots:
+    Dots: 1 14 1235
   - Text: after
-    Dots:
+    Dots: 1 124
   - Text: afternoon
-    Dots:
+    Dots: 1 124 1345
   - Text: afterward
-    Dots:
+    Dots: 1 124 2345
   - Text: again
-    Dots:
+    Dots: 1 1245
   - Text: against
-    Dots:
+    Dots: 1 1245 34
   - Text: also
-    Dots:
+    Dots: 1 123
   - Text: almost
-    Dots:
+    Dots: 1 123 134
   - Text: already
-    Dots:
+    Dots: 1 123 1235
   - Text: altogether
-    Dots:
+    Dots: 1 123 2345
   - Text: although
-    Dots:
+    Dots: 1 123 1456
   - Text: always
-    Dots:
+    Dots: 1 123 2345
   - Text: blind
-    Dots:
+    Dots: 12 123
   - Text: braille
-    Dots:
+    Dots: 12 1235 123
   - Text: could
-    Dots:
+    Dots: 14 145
   - Text: declare
-    Dots:
+    Dots: 145 14 123
   - Text: declaring
-    Dots:
+    Dots: 145 14 123 1245
   - Text: deceive
-    Dots:
+    Dots: 145 14 1236
   - Text: deceiving
-    Dots:
+    Dots: 145 14 1236 1245
   - Text: either
-    Dots:
+    Dots: 15 24
   - Text: friend
-    Dots:
+    Dots: 124 1235
   - Text: first
-    Dots:
+    Dots: 124 34
   - Text: good
-    Dots:
+    Dots: 1245 145
   - Text: great
-    Dots:
+    Dots: 1245 1235 2345
   - Text: him
-    Dots:
+    Dots: 125 134
   - Text: himself
-    Dots:            
+    Dots: 125 134 124
   - Text: herself
-    Dots:
+    Dots: 125 12456 124
   - Text: immediate
-    Dots:
+    Dots: 24 134 134
   - Text: little
-    Dots:
+    Dots: 123 123
   - Text: letter
-    Dots:
+    Dots: 123 1235
   - Text: myself
-    Dots:
+    Dots: 134 13456 124
   - Text: much
-    Dots:
+    Dots: 134 16
   - Text: must
-    Dots:
+    Dots: 134 34
   - Text: necessary
-    Dots:
+    Dots: 1345 15 14
   - Text: neither
-    Dots:
+    Dots: 1345 15 24
   - Text: paid
-    Dots:
+    Dots: 1234 145
   - Text: perceive
-    Dots:
+    Dots: 1234 12456 14 1236
   - Text: perceiving
-    Dots:
+    Dots: 1234 12456 14 1236 1245
   - Text: perhaps
-    Dots:
+    Dots: 1234 12456 125
   - Text: quick
-    Dots:
+    Dots: 12345 13
   - Text: receive
-    Dots:
+    Dots: 1235 14 1236
   - Text: receiving
-    Dots:
+    Dots: 1235 14 1236 1245
   - Text: rejoice
-    Dots:
+    Dots: 1235 245 14
   - Text: rejoicing
-    Dots:
+    Dots: 1235 245 14 1245
   - Text: said
-    Dots:
+    Dots: 234 145
   - Text: such
-    Dots:
+    Dots: 234 16
   - Text: today
-    Dots:
+    Dots: 2345 145
   - Text: together
-    Dots:
+    Dots: 2345 1245 1235
   - Text: tomorrow
-    Dots:
+    Dots: 2345 134
   - Text: tonight
-    Dots:
+    Dots: 2345 1345
   - Text: itself
-    Dots:
+    Dots: 1346
   - Text: its
-    Dots:
+    Dots: 1346 234
   - Text: your
-    Dots:
+    Dots: 13456 1235
   - Text: yourself
-    Dots:
+    Dots: 13456 1235 124
   - Text: yourselves
-    Dots:
+    Dots: 13456 1235 1236 234
   - Text: themselves
-    Dots:
+    Dots: 2346 134 1236 234
   - Text: children
-    Dots:
+    Dots: 16 1345
   - Text: should
-    Dots:
+    Dots: 146 145
   - Text: thyself
-    Dots:
+    Dots: 1456 13456 124
   - Text: ourselves
-    Dots:
+    Dots: 1256 1235 1236 234
   - Text: would
-    Dots:
+    Dots: 2456 145
   - Text: because
-    Dots:
+    Dots: 23 14
   - Text: before
-    Dots:
+    Dots: 23 124
   - Text: behind
-    Dots:
+    Dots: 23 125
   - Text: below
-    Dots:
+    Dots: 23 123
   - Text: beneath
-    Dots:
+    Dots: 23 1345
   - Text: beside
-    Dots:
+    Dots: 23 234
   - Text: between
-    Dots:
+    Dots: 23 2345
   - Text: beyond
-    Dots:
+    Dots: 23 13456
   - Text: conceive
-    Dots:
+    Dots: 25 14 1236
   - Text: conceiving
-    Dots:
+    Dots: 25 14 1236 1245
   - Text: oneself
-    Dots:
+    Dots: 5 135 124
