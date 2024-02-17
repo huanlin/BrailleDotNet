@@ -1,4 +1,388 @@
+# Reference: Rules of Unified English Braille 2013.
 Contractions:
-  - Text: 'from'
+# Alphabetic wordsigns
+  - Text: but
+    Dots: 
+  - Text: can
+    Dots:
+  - Text: do
+    Dots:
+  - Text: every
+    Dots:
+  - Text: from 
     Dots: 124 135
-    Description: "f" 
+    ShortText: f
+  - Text: go 
+    Dots:   
+  - Text: have 
+    Dots:
+  - Text: just 
+    Dots:
+  - Text: knowledge 
+    Dots:
+  - Text: like 
+    Dots:
+  - Text: more 
+    Dots:
+  - Text: not 
+    Dots:
+  - Text: people 
+    Dots:
+  - Text: quite 
+    Dots: 
+  - Text: rather 
+    Dots:
+  - Text: so 
+    Dots:
+  - Text: that 
+    Dots:
+  - Text: us 
+    Dots:
+  - Text: very 
+    Dots:
+  - Text: will 
+    Dots:
+  - Text: it 
+    Dots:
+  - Text: you 
+    Dots:
+  - Text: as 
+    Dots:
+
+# Strong wordsigns
+  - Text: child 
+    Dots:
+  - Text: shall
+    Dots:
+  - Text: this
+    Dots:
+  - Text: which
+    Dots:
+  - Text: out
+    Dots:
+  - Text: still
+    Dots:
+
+# Strong contractions: may be used as groupsigns and as wordsigns.
+  - Text: and
+    Dots:
+  - Text: for
+    Dots:
+  - Text: of
+    Dots:
+  - Text: the
+    Dots:
+  - Text: with
+    Dots:
+
+# Strong groupsigns
+  - Text: ch
+    Dots:
+  - Text: gh
+    Dots:
+  - Text: sh
+    Dots:
+  - Text: th
+    Dots:
+  - Text: wh
+    Dots:
+  - Text: ed
+    Dots:
+  - Text: er
+    Dots:
+  - Text: ou
+    Dots:
+  - Text: ow
+    Dots:
+  - Text: st
+    Dots:
+  - Text: ing
+    Dots:
+  - Text: ar
+    Dots:
+
+# Lower wordsigns
+  - Text: be
+    Dots:
+  - Text: enough
+    Dots:
+  - Text: were
+    Dots:
+  - Text: his
+    Dots:
+  - Text: in
+    Dots:
+  - Text: was
+    Dots:
+         
+# Lower groupsigns
+  - Text: ea
+    Dots:
+  - Text: be
+    Dots:
+  - Text: bb
+    Dots:
+  - Text: con
+    Dots:
+  - Text: cc
+    Dots:
+  - Text: dis
+    Dots:
+  - Text: en
+    Dots:
+  - Text: ff
+    Dots:
+  - Text: gg
+    Dots:
+  - Text: in
+    Dots:
+
+# Initial-letter contractions: may be used as groupsigns and as wordsigns.
+  # (1) beginning with dots 45 
+  - Text: upon
+    Dots:
+  - Text: these
+    Dots:
+  - Text: those
+    Dots:
+  - Text: whose
+    Dots:
+  - Text: word
+    Dots:
+  # (2) beginning with dots 456 
+  - Text: cannot
+    Dots:
+  - Text: had
+    Dots: 
+  - Text: many
+    Dots:
+  - Text: spirit
+    Dots:
+  - Text: their
+    Dots:
+  - Text: world
+    Dots:
+  # (3) beginning with dot 5
+  - Text: day
+    Dots:
+  - Text: ever
+    Dots:
+  - Text: father
+    Dots:
+  - Text: here
+    Dots:
+  - Text: know
+    Dots:
+  - Text: lord
+    Dots:
+  - Text: mother
+    Dots:  
+  - Text: name
+    Dots:
+  - Text: one
+    Dots:
+  - Text: part
+    Dots:
+  - Text: question
+    Dots:
+  - Text: right
+    Dots:
+  - Text: some
+    Dots:
+  - Text: time
+    Dots:
+  - Text: under
+    Dots:
+  - Text: young
+    Dots:
+  - Text: there
+    Dots:
+  - Text: character
+    Dots:
+  - Text: through
+    Dots:
+  - Text: where
+    Dots:
+  - Text: ought
+    Dots:
+  - Text: work
+    Dots:
+# Final-letter groupsigns
+  # (1) beginning with dots 46
+  - Text: ound
+    Dots:
+  - Text: ance
+    Dots:
+  - Text: sion
+    Dots:
+  - Text: less
+    Dots:
+  - Text: ount
+    Dots:
+  # (2) beginning with dots 56   
+  - Text: ence
+    Dots:
+  - Text: ong
+    Dots:
+  - Text: ful
+    Dots:
+  - Text: tion
+    Dots:
+  - Text: ness
+    Dots:
+  - Text: ment
+    Dots:
+  - Text: ity
+    Dots:
+
+# Shortforms    
+  - Text: about
+    Dots:
+  - Text: above
+    Dots:
+  - Text: according
+    Dots:
+  - Text: across
+    Dots:
+  - Text: after
+    Dots:
+  - Text: afternoon
+    Dots:
+  - Text: afterward
+    Dots:
+  - Text: again
+    Dots:
+  - Text: against
+    Dots:
+  - Text: also
+    Dots:
+  - Text: almost
+    Dots:
+  - Text: already
+    Dots:
+  - Text: altogether
+    Dots:
+  - Text: although
+    Dots:
+  - Text: always
+    Dots:
+  - Text: blind
+    Dots:
+  - Text: braille
+    Dots:
+  - Text: could
+    Dots:
+  - Text: declare
+    Dots:
+  - Text: declaring
+    Dots:
+  - Text: deceive
+    Dots:
+  - Text: deceiving
+    Dots:
+  - Text: either
+    Dots:
+  - Text: friend
+    Dots:
+  - Text: first
+    Dots:
+  - Text: good
+    Dots:
+  - Text: great
+    Dots:
+  - Text: him
+    Dots:
+  - Text: himself
+    Dots:            
+  - Text: herself
+    Dots:
+  - Text: immediate
+    Dots:
+  - Text: little
+    Dots:
+  - Text: letter
+    Dots:
+  - Text: myself
+    Dots:
+  - Text: much
+    Dots:
+  - Text: must
+    Dots:
+  - Text: necessary
+    Dots:
+  - Text: neither
+    Dots:
+  - Text: paid
+    Dots:
+  - Text: perceive
+    Dots:
+  - Text: perceiving
+    Dots:
+  - Text: perhaps
+    Dots:
+  - Text: quick
+    Dots:
+  - Text: receive
+    Dots:
+  - Text: receiving
+    Dots:
+  - Text: rejoice
+    Dots:
+  - Text: rejoicing
+    Dots:
+  - Text: said
+    Dots:
+  - Text: such
+    Dots:
+  - Text: today
+    Dots:
+  - Text: together
+    Dots:
+  - Text: tomorrow
+    Dots:
+  - Text: tonight
+    Dots:
+  - Text: itself
+    Dots:
+  - Text: its
+    Dots:
+  - Text: your
+    Dots:
+  - Text: yourself
+    Dots:
+  - Text: yourselves
+    Dots:
+  - Text: themselves
+    Dots:
+  - Text: children
+    Dots:
+  - Text: should
+    Dots:
+  - Text: thyself
+    Dots:
+  - Text: ourselves
+    Dots:
+  - Text: would
+    Dots:
+  - Text: because
+    Dots:
+  - Text: before
+    Dots:
+  - Text: behind
+    Dots:
+  - Text: below
+    Dots:
+  - Text: beneath
+    Dots:
+  - Text: beside
+    Dots:
+  - Text: between
+    Dots:
+  - Text: beyond
+    Dots:
+  - Text: conceive
+    Dots:
+  - Text: conceiving
+    Dots:
+  - Text: oneself
+    Dots:
