@@ -149,3 +149,8 @@ Misc:
       - 3456
       - 146
     Description: "Sharp. (升記號)"
+  - Text: '✓'
+    Dots:
+      - 4
+      - 146
+    Description: "Check mark."
