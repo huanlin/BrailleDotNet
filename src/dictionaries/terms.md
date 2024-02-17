@@ -6,8 +6,7 @@
 |------------|-------------------------------------|
 | **braille cell** | The physical area which is occupied by a **braille character**. |
 | **braille character** | Any one of the 64 distinct patterns of six dots, including the space, which can be expressed in braille. |
-| **braille sign** | A.k.a **braille symbol**. One or more consecutive braille characters comprising a unit,
-consisting of a **root** on its own or a root preceded by one or more prefixes. |
+| **braille sign** | A.k.a **braille symbol**. One or more consecutive braille characters comprising a unit, consisting of a **root** on its own or a root preceded by one or more prefixes. |
 | **braille symbol** | Same as **braille sign**. |
 | **cell**       | Same as braille cell. |
 | **contraction** | A **braille sign** that represents a word or a group of letters. (縮寫，用來代表一個單字或一組字母。) |
