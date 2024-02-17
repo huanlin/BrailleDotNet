@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrailleDotNet", "BrailleDotNet\BrailleDotNet.csproj", "{FB182707-E4E8-4D97-B486-0BF7678FFE04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental", "Experimental\Experimental.csproj", "{B0C168D9-B26D-4D1D-9222-0F4B214FA3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB182707-E4E8-4D97-B486-0BF7678FFE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB182707-E4E8-4D97-B486-0BF7678FFE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB182707-E4E8-4D97-B486-0BF7678FFE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB182707-E4E8-4D97-B486-0BF7678FFE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C168D9-B26D-4D1D-9222-0F4B214FA3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C168D9-B26D-4D1D-9222-0F4B214FA3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C168D9-B26D-4D1D-9222-0F4B214FA3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C168D9-B26D-4D1D-9222-0F4B214FA3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9FC848-C8EF-4BE3-942A-2269401083AB}
+	EndGlobalSection
+EndGlobal
