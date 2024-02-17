@@ -1,17 +1,33 @@
-# Text Braille Converter
+# BrailleDotNet
 
-A text to braille converter library.
+BrailleDotNet is a Braille library for .NET.
 
-Planned to support the following languages:
+BrailleDotNet aims to support text-to-braille conversion for two languages: English and Traditional Chinese.
 
 - English: Unified English Braille (UEB)
-- Traditional Chinese
+- Traditional Chinese: Taiwanese Braille (台灣點字, also known as 國語點字)
 
-The first milestone is to define text-to-braille mappings in data files.
+## Target platforms
 
-There is no specific schedule for release, I'll just see what I can do when I have time.
+This project targets the following .NET platforms:
 
-Feel free to contribute via Pull Requests. Or, if you would support this open-source project, kindly buy me a coffee via PayPal: <https://paypal.me/hltsai>
+- .NET 8.0
+
+## Roadmap
+
+The first milestone is to define text-to-braille mappings in YAML files. However, there is no specific schedule for release, I'll just see what I can do when I have time.
+
+## Contributing
+
+Feel free to contribute via pull requests. 
+
+1. Please create one pull request for each feature. This results in smaller pull requests that are easier to review and validate.
+2. Avoid reformatting existing code unless you are making other changes to it.
+3. Unless the implementation is self-explanatory, please describe the why and how behind the pull request (in English or Chinese).
+
+## Support
+
+If you would like to support this open-source project, kindly buy me a coffee via PayPal: <https://paypal.me/hltsai>
 
 ## Reference
 
