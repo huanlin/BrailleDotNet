@@ -12,14 +12,58 @@ string contractions = """
         Dots: 1 14
     """;
 
+string punctuation = """
+    Punctuation:
+      - Text: .
+        Dots: 256
+        Description: "Period, dot, decimal point."
+      - Text: ...
+        Dots: 256 256 256
+        Description: "Ellipsis (刪節號)"
+      - Text: ''''
+        Dots: 3
+        Description: 所有格符號
+      - Text: '-'
+        Dots: 36
+        Description: "hyphen (連結號，若連續兩個則為破折號)"
+    """;
+
+/*
 var deserializer = new DeserializerBuilder()    
     .WithNamingConvention(PascalCaseNamingConvention.Instance)
     .Build();
 
-//yml contains a string containing your YAML
 var p = deserializer.Deserialize<BrailleTable>(contractions);
 
-Console.WriteLine(p?.Contractions[0].Text); 
+
+Console.WriteLine(p?.Contractions[0].Text);
+*/
+
+
+
+// YAML string to deserialize
+string yaml = @"
+            Name: John
+            Age: 30
+        ";
+
+// Create a deserializer
+var deserializer = new DeserializerBuilder()
+    .WithNamingConvention(CamelCaseNamingConvention.Instance)
+    .Build();
+
+// Deserialize YAML into a Person record
+Person person = deserializer.Deserialize<Person>(yaml);
+
+// Display the deserialized record
+Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
+
+
+// Define a C# 9.0 record
+public record Person(string Name, int Age);
+
+
+
 
 
 public class  BrailleTable
